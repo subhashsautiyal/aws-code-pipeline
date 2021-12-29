@@ -1,2 +1,2 @@
-# aws-code-pipeline
-aws-code-pipeline-with-github
+# code-deploy-udemy
+This repository contains all the resources used in the Udemy course.
